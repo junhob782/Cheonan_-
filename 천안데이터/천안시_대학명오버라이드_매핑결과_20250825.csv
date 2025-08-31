@@ -1,0 +1,12 @@
+﻿학교명,주소,emd_tokens,mapping_status,has_token,emd_tokens_list,emd_tokens_expanded,emd_tokens_fixed,mapping_status_fixed,has_token_fixed
+연암대학교,"충청남도 천안시 서북구 성환읍 연암로 313 (수향리, 천안연암대학)",['성환읍'],matched_known_emd,1,['성환읍'],['성환읍'],['성환읍'],matched_known_emd,1
+백석문화대학교,충청남도 천안시 동남구 백석대학로 1 (안서동),['안서동'],token_not_in_known,1,['안서동'],['안서동'],['문성동'],matched_known_emd,1
+국립공주대학교 테크노융합대학원,"충청남도 천안시 서북구 천안대로 1223-24 (부대동, 공주대학교천안공과대학)",['부대동'],token_not_in_known,1,['부대동'],['부대동'],['부성1동'],matched_known_emd,1
+고신대학교 신학대학원,충청남도 천안시 동남구 충절로 535-33 (삼룡동),['삼룡동'],token_not_in_known,1,['삼룡동'],['삼룡동'],['문성동'],matched_known_emd,1
+글로벌사이버대학교,"충청남도 천안시 동남구 목천읍 교천지산길 284-88 (지산리, 글로벌사이버대학교)",['목천읍'],matched_known_emd,1,['목천읍'],['목천읍'],['목천읍'],matched_known_emd,1
+나사렛대학교,"충청남도 천안시 서북구 월봉로 48 (쌍용동, 나사렛대학교)",['쌍용동'],token_not_in_known,1,['쌍용동'],"['쌍용1동', '쌍용3동', '쌍용2동']",['쌍용2동'],matched_known_emd,1
+남서울대학교,"충청남도 천안시 서북구 성환읍 대학로 91 (매주리, 남서울대학교)",['성환읍'],matched_known_emd,1,['성환읍'],['성환읍'],['성환읍'],matched_known_emd,1
+단국대학교,"충청남도 천안시 동남구 단대로 119 (안서동, 단국대학교천안캠퍼스)",['안서동'],token_not_in_known,1,['안서동'],['안서동'],['문성동'],matched_known_emd,1
+상명대학교,"충청남도 천안시 동남구 상명대길 31 (안서동, 상명대학교천안캠퍼스)",['안서동'],token_not_in_known,1,['안서동'],['안서동'],['문성동'],matched_known_emd,1
+한국기술교육대학교,"충청남도 천안시 동남구 병천면 충절로 1600 (가전리, 한국기술교육대학교)",['병천면'],matched_known_emd,1,['병천면'],['병천면'],['병천면'],matched_known_emd,1
+한국기술교육대학교 테크노인력개발전문대,"충청남도 천안시 서북구 과수원길 18 (부대동, 한국기술교육대학교두정IOC캠퍼스)",['부대동'],token_not_in_known,1,['부대동'],['부대동'],['부성1동'],matched_known_emd,1
